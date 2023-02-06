@@ -1,0 +1,389 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13285401
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2021 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2021 (5-Year Estimates)
+Tables:
+
+      1. Poverty Status in 2020 for Children Under 18
+         Universe:  Population Under 18 Years of Age for whom poverty status Is determined
+         Name:      A13003A
+         Variables:
+            A13003A_001:   Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+            A13003A_002:      Living in Poverty
+            A13003A_003:      At or Above Poverty Level
+
+
+      2. Poverty Status in 2020 for Population Age 18 to 64
+         Universe:  Population Age 18 to 64 for whom poverty status Is determined
+         Name:      A13003B
+         Variables:
+            A13003B_001:   Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+            A13003B_002:      Living in Poverty
+            A13003B_003:      At or Above Poverty Level
+
+
+      3. Poverty Status in 2020 for Population Age 65 and Over
+         Universe:  Population Age 65 and Over for whom poverty status Is determined
+         Name:      A13003C
+         Variables:
+            A13003C_001:   Population Age 65 and Over for Whom Poverty  Status Is Determined:
+            A13003C_002:      Living in Poverty
+            A13003C_003:      At or Above Poverty Level
+
+
+      4. Poverty Status in the Past 12 Months (White Alone)
+         Universe:  White Alone Population for whom poverty status Is determined
+         Name:      A13001A
+         Variables:
+            A13001A_001:   White Alone Population for Whom Poverty Status Is  Determined:
+            A13001A_002:      Income Below Poverty Level
+            A13001A_003:      Income At or Above Poverty Level
+
+
+      5. Poverty Status in the Past 12 Months (Black or African American Alone)
+         Universe:  Black or African American Alone Population for whom poverty status Is determined
+         Name:      A13001B
+         Variables:
+            A13001B_001:   Black or African American Alone Population for  Whom Poverty Status Is Determined:
+            A13001B_002:      Income Below Poverty Level
+            A13001B_003:      Income At or Above Poverty Level
+
+
+      6. Poverty Status in the Past 12 Months (American Indian and Alaska Native Alone)
+         Universe:  American Indian and Alaska Native Alone Population for whom poverty status Is determined
+         Name:      A13001C
+         Variables:
+            A13001C_001:   American Indian and Alaska Native Alone  Population for Whom Poverty Status Is Determined:
+            A13001C_002:      Income Below Poverty Level
+            A13001C_003:      Income At or Above Poverty Level
+
+
+      7. Poverty Status in the Past 12 Months (Asian Alone)
+         Universe:  Asian Alone Population for whom poverty status Is determined
+         Name:      A13001D
+         Variables:
+            A13001D_001:   Asian Alone Population for Whom Poverty Status Is  Determined:
+            A13001D_002:      Income Below Poverty Level
+            A13001D_003:      Income At or Above Poverty Level
+
+
+      8. Poverty Status in the Past 12 Months (Native Hawaiian and Other Pacific Islander Alone)
+         Universe:  Native Hawaiian and Other Pacific Islander Alone Population for whom poverty status Is determined
+         Name:      A13001E
+         Variables:
+            A13001E_001:   Native Hawaiian and Other Pacific Islander Alone  Population for Whom Poverty Status Is Determined:
+            A13001E_002:      Income Below Poverty Level
+            A13001E_003:      Income At or Above Poverty Level
+
+
+      9. Poverty Status in the Past 12 Months (Some Other Race Alone)
+         Universe:  Some Other Race Alone Population for whom poverty status Is determined
+         Name:      A13001F
+         Variables:
+            A13001F_001:   Some Other Race Alone Population for Whom Poverty  Status Is Determined:
+            A13001F_002:      Income Below Poverty Level
+            A13001F_003:      Income At or Above Poverty Level
+
+
+      10. Poverty Status in the Past 12 Months (Two or More Races)
+          Universe:  Two or More races Population for whom poverty status Is determined
+          Name:      A13001G
+          Variables:
+             A13001G_001:   Two or More Races Population for Whom Poverty  Status Is Determined:
+             A13001G_002:      Income Below Poverty Level
+             A13001G_003:      Income At or Above Poverty Level
+
+
+      11. Poverty Status in the Past 12 Months (Hispanic or Latino)
+          Universe:  Hispanic or Latino Population for whom poverty status Is determined
+          Name:      A13001H
+          Variables:
+             A13001H_001:   Hispanic or Latino Population for Whom Poverty  Status Is Determined:
+             A13001H_002:      Income Below Poverty Level
+             A13001H_003:      Income At or Above Poverty Level
+
+
+      12. Poverty Status in the Past 12 Months (White Alone, Not Hispanic or Latino)
+          Universe:  White Alone, not Hispanic or Latino Population for whom poverty status Is determined
+          Name:      A13001I
+          Variables:
+             A13001I_001:   White Alone, Not Hispanic or Latino Population  for Whom Poverty Status Is Determined:
+             A13001I_002:      Income Below Poverty Level
+             A13001I_003:      Income At or Above Poverty Level
+
+
+      13. Occupation for Employed Civilian Population 16 Years and Over
+          Universe:  Employed Civilian Population 16 Years and Over
+          Name:      A17008
+          Variables:
+             A17008_001:   Employed Civilian Population 16 Years and Over:
+             A17008_002:      Management, Professional, and Related Occupations
+             A17008_003:      Service Occupations
+             A17008_004:      Sales and Office Occupations:
+             A17008_005:      Farming, Fishing, and Forestry Occupations
+             A17008_006:      Construction, Extraction, and Maintenance  Occupations
+             A17008_007:      Production, Transportation, and Material Moving  Occupations:
+             A17008_008:         Production Occupations
+             A17008_009:         Transportation and Material Moving Occupations
+
+
+      14. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars)
+          Universe:  Total Population
+          Name:      A14024
+          Variables:
+             A14024_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      15. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (White Alone)
+          Universe:  White Alone Population
+          Name:      A14024A
+          Variables:
+             A14024A_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      16. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Black or African American Alone)
+          Universe:  Black or African American Alone Population
+          Name:      A14024B
+          Variables:
+             A14024B_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      17. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (American Indian and Alaska Native Alone)
+          Universe:  American Indian and Alaska Native Alone Population
+          Name:      A14024C
+          Variables:
+             A14024C_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      18. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Asian Alone)
+          Universe:  Asian Alone Population
+          Name:      A14024D
+          Variables:
+             A14024D_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      19. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone)
+          Universe:  Native Hawaiian and Other Pacific Islander Alone Population
+          Name:      A14024E
+          Variables:
+             A14024E_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      20. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Some Other Race Alone)
+          Universe:  Some Other Race Alone Population
+          Name:      A14024F
+          Variables:
+             A14024F_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      21. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Two or More Races)
+          Universe:  Two or More Races Population
+          Name:      A14024G
+          Variables:
+             A14024G_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      22. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Hispanic or Latino)
+          Universe:  Hispanic or Latino Population
+          Name:      A14024H
+          Variables:
+             A14024H_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+      23. Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (White Alone, Not Hispanic or Latino)
+          Universe:  White Alone, not Hispanic or Latino Population
+          Name:      A14024I
+          Variables:
+             A14024I_001:   Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FILEID:         File identification
+      STUSAB:         State Postal Abbreviation
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Census Region
+      DIVISION:       Census Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS Code)
+      COUNTY:         County of current residence
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/AlaskaNative Area/ Hawaiian Home Land(Census)
+      AIANHHFP:       American Indian Area/AlaskaNative Area/ Hawaiian Home Land(FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian TribalSubdivision (Census)
+      AITS:           American Indian TribalSubdivision (FIPS)
+      ANRC:           Alaska Native RegionalCorporation (FIPS)
+      CBSA:           Metropolitan and MicropolitanStatistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Statistical Area-Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/MicropolitanIndicator Flag
+      NECTA:          New England City and Town Area
+      CNECTA:         New England City and TownCombined Statistical Area
+      NECTADIV:       New England City and Town AreaDivision
+      UA:             Urban Area
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      ZCTA5:          5-digit ZIP Code Tabulation Area
+      SUBMCD:         Subminor Civil Division (FIPS)
+      SDELM:          State-School District (Elementary)
+      SDSEC:          State-School District (Secondary)
+      SDUNI:          State-School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      PUMA5:          Public Use Microdata Area – 5%File
+      GEOID:          Geographic Identifier
+      NAME:           Area Name
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      QName:          Qualifying Name
+      FIPS:           FIPS
+      AREALAND:       Area (Land)
+      AREAWATR:       Area (Water)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      UACP:           Urban Area Central Place
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      PUMA1:          Public Use Microdata Area - 1% File
+      A13003A_001:    Population Under 18 Years of Age for Whom Poverty Status Is Determined:
+      A13003A_002:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: Living in Poverty
+      A13003A_003:    Population Under 18 Years of Age for Whom Poverty Status Is Determined: At or Above Poverty Level
+      PCT_A13003A_002: % Population Under 18 Years of Age for Whom Poverty Status Is Determined: Living in Poverty
+      PCT_A13003A_003: % Population Under 18 Years of Age for Whom Poverty Status Is Determined: At or Above Poverty Level
+      A13003B_001:    Population Age 18 to 64 for Whom Poverty Status  Is Determined:
+      A13003B_002:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: Living in Poverty
+      A13003B_003:    Population Age 18 to 64 for Whom Poverty Status  Is Determined: At or Above Poverty Level
+      PCT_A13003B_002: % Population Age 18 to 64 for Whom Poverty Status  Is Determined: Living in Poverty
+      PCT_A13003B_003: % Population Age 18 to 64 for Whom Poverty Status  Is Determined: At or Above Poverty Level
+      A13003C_001:    Population Age 65 and Over for Whom Poverty  Status Is Determined:
+      A13003C_002:    Population Age 65 and Over for Whom Poverty  Status Is Determined: Living in Poverty
+      A13003C_003:    Population Age 65 and Over for Whom Poverty  Status Is Determined: At or Above Poverty Level
+      PCT_A13003C_002: % Population Age 65 and Over for Whom Poverty  Status Is Determined: Living in Poverty
+      PCT_A13003C_003: % Population Age 65 and Over for Whom Poverty  Status Is Determined: At or Above Poverty Level
+      A13001A_001:    White Alone Population for Whom Poverty Status Is  Determined:
+      A13001A_002:    White Alone Population for Whom Poverty Status Is  Determined: Income Below Poverty Level
+      A13001A_003:    White Alone Population for Whom Poverty Status Is  Determined: Income At or Above Poverty Level
+      PCT_A13001A_002: % White Alone Population for Whom Poverty Status Is  Determined: Income Below Poverty Level
+      PCT_A13001A_003: % White Alone Population for Whom Poverty Status Is  Determined: Income At or Above Poverty Level
+      A13001B_001:    Black or African American Alone Population for  Whom Poverty Status Is Determined:
+      A13001B_002:    Black or African American Alone Population for  Whom&nbsp; Poverty Status Is Determined: Income Below Poverty Level
+      A13001B_003:    Black or African American Alone Population for  Whom&nbsp; Poverty Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001B_002: % Black or African American Alone Population for  Whom&nbsp; Poverty Status Is Determined: Income Below Poverty Level
+      PCT_A13001B_003: % Black or African American Alone Population for  Whom&nbsp; Poverty Status Is Determined: Income At or Above Poverty Level
+      A13001C_001:    American Indian and Alaska Native Alone  Population for Whom Poverty Status Is Determined:
+      A13001C_002:    American Indian and Alaska Native Alone  Population For&nbsp; Whom Poverty Status Is Determined: Income Below Poverty Level
+      A13001C_003:    American Indian and Alaska Native Alone  Population For&nbsp; Whom Poverty Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001C_002: % American Indian and Alaska Native Alone  Population For&nbsp; Whom Poverty Status Is Determined: Income Below Poverty Level
+      PCT_A13001C_003: % American Indian and Alaska Native Alone  Population For&nbsp; Whom Poverty Status Is Determined: Income At or Above Poverty Level
+      A13001D_001:    Asian Alone Population for Whom Poverty Status Is  Determined:
+      A13001D_002:    Asian Alone Population for Whom Poverty Status Is  Determined: Income Below Poverty Level
+      A13001D_003:    Asian Alone Population for Whom Poverty Status Is  Determined: Income At or Above Poverty Level
+      PCT_A13001D_002: % Asian Alone Population for Whom Poverty Status Is  Determined: Income Below Poverty Level
+      PCT_A13001D_003: % Asian Alone Population for Whom Poverty Status Is  Determined: Income At or Above Poverty Level
+      A13001E_001:    Native Hawaiian and Other Pacific Islander Alone  Population for Whom Poverty Status Is Determined:
+      A13001E_002:    Native Hawaiian and Other Pacific Islander Alone &nbsp; Population for Whom Poverty Status Is Determined: Income Below Poverty Level
+      A13001E_003:    Native Hawaiian and Other Pacific Islander Alone &nbsp; Population for Whom Poverty Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001E_002: % Native Hawaiian and Other Pacific Islander Alone &nbsp; Population for Whom Poverty Status Is Determined: Income Below Poverty Level
+      PCT_A13001E_003: % Native Hawaiian and Other Pacific Islander Alone &nbsp; Population for Whom Poverty Status Is Determined: Income At or Above Poverty Level
+      A13001F_001:    Some Other Race Alone Population for Whom Poverty  Status Is Determined:
+      A13001F_002:    Some Other Race Alone Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      A13001F_003:    Some Other Race Alone Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001F_002: % Some Other Race Alone Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      PCT_A13001F_003: % Some Other Race Alone Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      A13001G_001:    Two or More Races Population for Whom Poverty  Status Is Determined:
+      A13001G_002:    Two or More Races Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      A13001G_003:    Two or More Races Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001G_002: % Two or More Races Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      PCT_A13001G_003: % Two or More Races Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      A13001H_001:    Hispanic or Latino Population for Whom Poverty  Status Is Determined:
+      A13001H_002:    Hispanic or Latino Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      A13001H_003:    Hispanic or Latino Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001H_002: % Hispanic or Latino Population for Whom Poverty  Status Is Determined: Income Below Poverty Level
+      PCT_A13001H_003: % Hispanic or Latino Population for Whom Poverty  Status Is Determined: Income At or Above Poverty Level
+      A13001I_001:    White Alone, Not Hispanic or Latino Population  for Whom Poverty Status Is Determined:
+      A13001I_002:    White Alone, Not Hispanic or Latino Population  for Whom&nbsp; Poverty Status Is Determined: Income Below Poverty Level
+      A13001I_003:    White Alone, Not Hispanic or Latino Population  for Whom&nbsp; Poverty Status Is Determined: Income At or Above Poverty Level
+      PCT_A13001I_002: % White Alone, Not Hispanic or Latino Population  for Whom&nbsp; Poverty Status Is Determined: Income Below Poverty Level
+      PCT_A13001I_003: % White Alone, Not Hispanic or Latino Population  for Whom&nbsp; Poverty Status Is Determined: Income At or Above Poverty Level
+      A17008_001:     Employed Civilian Population 16 Years and Over:
+      A17008_002:     Employed Civilian Population 16 Years and Over: Management, Professional, and Related Occupations
+      A17008_003:     Employed Civilian Population 16 Years and Over: Service Occupations
+      A17008_004:     Employed Civilian Population 16 Years and Over: Sales and Office Occupations
+      A17008_005:     Employed Civilian Population 16 Years and Over: Farming, Fishing, and Forestry Occupations
+      A17008_006:     Employed Civilian Population 16 Years and Over: Construction, Extraction, and Maintenance  Occupations
+      A17008_007:     Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations
+      A17008_008:     Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations: Production Occupations
+      A17008_009:     Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations: Transportation and Material Moving Occupations
+      PCT_A17008_002: % Employed Civilian Population 16 Years and Over: Management, Professional, and Related Occupations
+      PCT_A17008_003: % Employed Civilian Population 16 Years and Over: Service Occupations
+      PCT_A17008_004: % Employed Civilian Population 16 Years and Over: Sales and Office Occupations
+      PCT_A17008_005: % Employed Civilian Population 16 Years and Over: Farming, Fishing, and Forestry Occupations
+      PCT_A17008_006: % Employed Civilian Population 16 Years and Over: Construction, Extraction, and Maintenance  Occupations
+      PCT_A17008_007: % Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations
+      PCT_A17008_008: % Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations: Production Occupations
+      PCT_A17008_009: % Employed Civilian Population 16 Years and Over: Production, Transportation, and Material Moving  Occupations: Transportation and Material Moving Occupations
+      A14024_001:     Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024A_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024B_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024C_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024D_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024E_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024F_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024G_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024H_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+      A14024I_001:    Per Capita Income (In 2021 Inflation Adjusted Dollars)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13285401
+
+If you have any questions contact info@socialexplorer.com
